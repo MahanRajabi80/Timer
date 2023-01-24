@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Mahan\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Mahan\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Mahan\source\repos\Timer\Timer\obj\Debug\Timer.pdb
